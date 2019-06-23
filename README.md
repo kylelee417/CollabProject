@@ -13,5 +13,5 @@ click [there][2] for naver.com
 
 
 
-[1]: google.com
-[2]: naver.com
+[1]: https://www.google.com
+[2]: https://www.naver.com
