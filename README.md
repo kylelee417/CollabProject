@@ -2,7 +2,7 @@
 
 * **[Master's Program Admission][1]**:
 
-This collaborated project was aiming for developing a model to determine a liklihood of Master's Program addmission using various parameters. A threshhold of 70% chance of admit was determined based on the given data set. Based on the ***PCA and XGBoostRegressor*** analysis, the most important features were found as ***CGPA, GRE Score, and TOEFL Score***.
+This collaborated project was aiming for developing a model to determine a likelihood of Master's Program addmission using various parameters. A threshhold of 70% chance of admit was determined based on the given data set. Based on the ***PCA and XGBoostRegressor*** analysis, the most important features were found as ***CGPA, GRE Score, and TOEFL Score***.
 
 <p align="center"><img src="images/newplot.png" width=50% class="center">
                   <img src="images/newplot (1).png" width=45% class="center"></p>
